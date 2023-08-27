@@ -5,7 +5,7 @@ import StudentPage from "./pages/studentPage";
 
 export const routes = [
   {
-    path: "",
+    path: "/",
     breadcrumb: "Главная",
     element: <MainPage />,
     display: true,
