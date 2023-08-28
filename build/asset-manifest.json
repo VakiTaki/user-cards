@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user-cards/static/css/main.2fcbc6f6.css",
+    "main.js": "/user-cards/static/js/main.4f0782fa.js",
+    "static/media/vkLogo.svg": "/user-cards/static/media/vkLogo.91b1c1c507a38da3e01b986dd3377937.svg",
+    "index.html": "/user-cards/index.html",
+    "static/media/tgLogo.svg": "/user-cards/static/media/tgLogo.3020b4ecb3c2bb407683b475715111eb.svg",
+    "main.2fcbc6f6.css.map": "/user-cards/static/css/main.2fcbc6f6.css.map",
+    "main.4f0782fa.js.map": "/user-cards/static/js/main.4f0782fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fcbc6f6.css",
+    "static/js/main.4f0782fa.js"
+  ]
+}
