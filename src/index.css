@@ -4,5 +4,5 @@
 @tailwind utilities;
 
 .swiper-button-disabled {
-  @apply opacity-50;
+  @apply opacity-10;
 }
