@@ -20,9 +20,9 @@ const students = [
       { label: 'JS', value: 90 }],
     hobbies: ['Футбол', 'Хардкор', 'Кино', 'Еда'],
     portfolio: [
-      'https://i.postimg.cc/pXzpMR2s/2023-08-27-17-04-41.png',
-      'https://i.postimg.cc/wB88q7Kt/2023-08-26-14-26-13.png',
-      "https://i.postimg.cc/9MsFsNs3/2023-08-27-17-05-08.png"
+      'https://imageup.ru/img237/4509376/snimok-ekrana-2023-08-27-v-170508.jpg',
+      'https://imageup.ru/img241/4509379/snimok-ekrana-2023-08-27-v-170441.jpg',
+      "https://imageup.ru/img21/4509381/snimok-ekrana-2023-08-26-v-142613.jpg"
     ]
 
   },
@@ -75,9 +75,8 @@ const students = [
     ],
     hobbies: ["кино", "музыка", "гитара", "спорт"],
     portfolio: [
-      'https://i.postimg.cc/vTyHLZD4/fast-company.png',
-      'https://i.postimg.cc/768xwZ3K/notepad.png',
-      'https://i.postimg.cc/wxk6YH7k/todos.png'
+      "https://imageup.ru/img12/4509385/snimok-ekrana-2023-09-04-v-124940.jpg",
+      "https://imageup.ru/img44/4509393/snimok-ekrana-2023-09-04-v-125411.jpg"
     ]
   }]
 
